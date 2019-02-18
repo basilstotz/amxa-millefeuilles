@@ -1,0 +1,47 @@
+#!/bin/sh
+
+EXEC="chromium-browser --app=http://localhost:8000/millefeuilles"
+
+case "$1" in 
+   3.1)
+     ${EXEC}/Mille\ feuilles\ 3/Mille\ feuilles\ 3.1/START.html
+     ;;
+   3.2)
+     ${EXEC}/Mille\ feuilles\ 3/Mille\ feuilles\ 3.2/START.html
+     ;;
+   3.3)
+     ${EXEC}/Mille\ feuilles\ 3/Mille\ feuilles\ 3.3/START.html
+     ;;
+   4.1)
+     ${EXEC}/Mille\ feuilles\ 4/Mille\ feuilles\ 4.1/START.html
+     ;;
+   4.2)
+     ${EXEC}/Mille\ feuilles\ 4/Mille\ feuilles\ 4.2/START.html
+     ;;
+   4.3)
+     ${EXEC}/Mille\ feuilles\ 4/Mille\ feuilles\ 4.3/START.html
+     ;;
+   5.1)
+     ${EXEC}/Mille\ feuilles\ 5/Mille\ feuilles\ 5.1/START.html
+     ;;
+   5.2)
+     ${EXEC}/Mille\ feuilles\ 5/Mille\ feuilles\ 5.2/START.html
+     ;;
+   6.1)
+     ${EXEC}/Mille\ feuilles\ 6/Mille\ feuilles\ 6.1/START.html
+     ;;
+   6.2)
+     ${EXEC}/Mille\ feuilles\ 6/Mille\ feuilles\ 6.2/START.html
+     ;;
+   fichier)
+     ${EXEC}/Fichier/FICHIER.html
+     ;;
+   *)
+     ${EXEC}/index.html
+     ;;
+esac
+
+
+
+ 
+ 

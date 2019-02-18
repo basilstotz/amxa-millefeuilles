@@ -1,0 +1,6 @@
+./usr/share/prop/millefeuilles ./usr/share/prop/
+./usr/share/pixmaps ./usr/share/prop/millefeuilles/
+./usr/share/applications/*.desktop ./usr/share/applications/
+./usr/share/pixmaps/* ./usr/share/pixmaps/
+./usr/share/bin/* ./usr/share/bin/
+

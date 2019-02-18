@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Mille feuilles - Online
+Comment=Französisch Online Lernen
+Exec=chromium-browser --app=http://localhost:8000/millefeuilles/index2.html
+Terminal=false
+Type=Application
+Icon=/usr/share/prop/millefeuilles/pixmaps/mf.png
+Categories=Application;Education;
+

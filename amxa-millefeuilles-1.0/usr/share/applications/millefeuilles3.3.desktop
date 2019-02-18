@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Mille feuilles: magazine 3.3
+Name[de]=Mille feuilles 3.3
+GenericName[de]=Mille feuilles 3.3
+Comment[de]=Mille feuilles 3.3
+Exec=/usr/share/bin/millefeuilles 3.3
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=mf33.png
+Categories=Education;
+Keywords="lp21 sprachen französisch z1 hören lesen"

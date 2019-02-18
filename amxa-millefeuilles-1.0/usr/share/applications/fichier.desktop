@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Fichier
+Name[de]=Fichier
+GenericName[de]=Fichier
+Comment[de]=Fichier
+Exec=/usr/share/bin/millefeuilles fichier
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=fichier.png
+Categories=Education;
+Keywords="lp21 sprachen französisch z1 hören lesen"

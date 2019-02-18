@@ -1,0 +1,14 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Name=Mille feuilles: magazine 3.2
+Name[de]=Mille feuilles 3.2
+GenericName=Mille feulles 3.2
+Comment[de]=Französisch lernen
+Exec=/usr/share/bin/millefeuilles 3.2
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Icon=mf32.png
+Categories=Education;
+Keywords="lp21 sprachen französisch z1 hören lesen"

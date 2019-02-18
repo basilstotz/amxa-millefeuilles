@@ -1,0 +1,14 @@
+amxa-millefeuilles (1.0-2) UNRELEASED; urgency=medium
+
+  * Non-maintainer upload.
+  * initial 
+  * again
+
+ -- Basil Stotz <stotz.basil@builder4>  Mon, 18 Feb 2019 16:19:25 +0100
+
+amxa-millefeuilles (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Basil Stotz <stotz@amxa.ch>  Mon, 18 Feb 2019 15:55:55 +0100
+   
