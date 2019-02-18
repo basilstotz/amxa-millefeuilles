@@ -1,0 +1,34 @@
+Format: 1.8
+Date: Mon, 18 Feb 2019 16:28:52 +0100
+Source: amxa-millefeuilles
+Binary: amxa-millefeuilles
+Architecture: source all
+Version: 1.0-3
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Basil Stotz <stotz@amxa.ch>
+Changed-By: Basil Stotz <stotz.basil@builder4>
+Description:
+ amxa-millefeuilles - <insert up to 60 chars description>
+Changes:
+ amxa-millefeuilles (1.0-3) UNRELEASED; urgency=medium
+ .
+   * Non-maintainer upload.
+   * initial
+   * again
+   * add dependencies
+Checksums-Sha1:
+ 2b3b94120dda219fc319d2150365cc5c6c991503 614 amxa-millefeuilles_1.0-3.dsc
+ 84433fb6be4fd7ceaccd5baf6c673fb80fb13a61 1710046 amxa-millefeuilles_1.0-3.tar.gz
+ 1f43076f0697cb4a2dcde57760fc86525f0c8ec5 1170 amxa-millefeuilles_1.0-3_all.deb
+ e0cd077bb693ecafb76928d24ab2701f23a0fad1 5216 amxa-millefeuilles_1.0-3_amd64.buildinfo
+Checksums-Sha256:
+ 798d26a8d4699aa0a5d4fab249914987778dc53cdd484cb7277e6084eb2e5fdd 614 amxa-millefeuilles_1.0-3.dsc
+ a098d136e60f340a886d975b74eb4a9de021342dd1c65fabeba32f60b991304c 1710046 amxa-millefeuilles_1.0-3.tar.gz
+ bde2484c3cf8be776b1965512a0cfd8ace552d2854bffda95d96f6db46452744 1170 amxa-millefeuilles_1.0-3_all.deb
+ 624eae9e147b818cd7cfb7ffb7daf6e9077c963ae8733ad9c4e4eb072ae71625 5216 amxa-millefeuilles_1.0-3_amd64.buildinfo
+Files:
+ ee8c2ec03dbe21f766468c78fb1f81ad 614 education optional amxa-millefeuilles_1.0-3.dsc
+ 34bf752d1064e3eca57b2e99c5a125a3 1710046 education optional amxa-millefeuilles_1.0-3.tar.gz
+ bc4ea3c6d35f53643a9510213a4af9c6 1170 education optional amxa-millefeuilles_1.0-3_all.deb
+ 23d56834db79d336beace1e6ba09af78 5216 education optional amxa-millefeuilles_1.0-3_amd64.buildinfo

@@ -2,7 +2,7 @@ Format: 1.0
 Source: amxa-millefeuilles
 Binary: amxa-millefeuilles
 Architecture: all
-Version: 1.0-2
+Version: 1.0-3
 Maintainer: Basil Stotz <stotz@amxa.ch>
 Homepage: <insert the upstream URL, if relevant>
 Standards-Version: 3.9.8
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9)
 Package-List:
  amxa-millefeuilles deb education optional arch=all
 Checksums-Sha1:
- d2b4f68f72a38eb38503594bf8b2fe15b5634245 1710191 amxa-millefeuilles_1.0-2.tar.gz
+ 84433fb6be4fd7ceaccd5baf6c673fb80fb13a61 1710046 amxa-millefeuilles_1.0-3.tar.gz
 Checksums-Sha256:
- 699a17c36e7da6574a622c91cbe40d2a2e4ca93e03b96b3058b7b1a41bad38ff 1710191 amxa-millefeuilles_1.0-2.tar.gz
+ a098d136e60f340a886d975b74eb4a9de021342dd1c65fabeba32f60b991304c 1710046 amxa-millefeuilles_1.0-3.tar.gz
 Files:
- 9e3a3ca1871bf4ebc8844f2f9210482e 1710191 amxa-millefeuilles_1.0-2.tar.gz
+ 34bf752d1064e3eca57b2e99c5a125a3 1710046 amxa-millefeuilles_1.0-3.tar.gz

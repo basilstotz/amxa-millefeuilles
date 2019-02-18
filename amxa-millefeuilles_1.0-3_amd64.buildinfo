@@ -2,19 +2,19 @@ Format: 1.0
 Source: amxa-millefeuilles
 Binary: amxa-millefeuilles
 Architecture: all source
-Version: 1.0-2
+Version: 1.0-3
 Checksums-Md5:
- 35faf20ca1d9c9fc4d9a99812760126f 614 amxa-millefeuilles_1.0-2.dsc
- d16da676b4bafe9cf645595cebfbf5bb 1144 amxa-millefeuilles_1.0-2_all.deb
+ ee8c2ec03dbe21f766468c78fb1f81ad 614 amxa-millefeuilles_1.0-3.dsc
+ bc4ea3c6d35f53643a9510213a4af9c6 1170 amxa-millefeuilles_1.0-3_all.deb
 Checksums-Sha1:
- 95ee0b5bf2247d5ec71a3bf48d05b1bbcf2cf4ae 614 amxa-millefeuilles_1.0-2.dsc
- 9a8873e1cd2c61a74f36e5df9f964ac1b1f6c545 1144 amxa-millefeuilles_1.0-2_all.deb
+ 2b3b94120dda219fc319d2150365cc5c6c991503 614 amxa-millefeuilles_1.0-3.dsc
+ 1f43076f0697cb4a2dcde57760fc86525f0c8ec5 1170 amxa-millefeuilles_1.0-3_all.deb
 Checksums-Sha256:
- d67248b98e0a3bb6e74f8d02826493b35d7f139c2deb7191a7022ce3252c63e3 614 amxa-millefeuilles_1.0-2.dsc
- 8c6478b258acc4c0086840d3d8a2140469fabd06d624ea3bd4fa389518690fb2 1144 amxa-millefeuilles_1.0-2_all.deb
+ 798d26a8d4699aa0a5d4fab249914987778dc53cdd484cb7277e6084eb2e5fdd 614 amxa-millefeuilles_1.0-3.dsc
+ bde2484c3cf8be776b1965512a0cfd8ace552d2854bffda95d96f6db46452744 1170 amxa-millefeuilles_1.0-3_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Mon, 18 Feb 2019 16:19:34 +0100
+Build-Date: Mon, 18 Feb 2019 16:29:13 +0100
 Installed-Build-Depends:
  autoconf (= 2.69-10),
  automake (= 1:1.15-6),
@@ -170,4 +170,4 @@ Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="de_CH.UTF-8"
  MAKEFLAGS=""
- SOURCE_DATE_EPOCH="1550503165"
+ SOURCE_DATE_EPOCH="1550503732"
